@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuosphereAssignment</string>
+    <string name="get_started">Get Started</string>
+    <string name="cartoon_image">cartoon image</string>
+    <string name="main_screen_header2">Explore the app design, Keep some peace of mind to complete the assignment.</string>
+    <string name="main_screen_header1">Hi Sandeep Kolhal, Welcome to the Assignment</string>
+    <string name="this_is_a_masonry_animated_elements">This is a masonry animated elements!</string>
+    <string name="click_on_one_element_to_focus_on">Click on one element to focus on:</string>
+</resources>
